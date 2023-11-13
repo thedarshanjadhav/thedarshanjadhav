@@ -51,9 +51,9 @@ I'm currently expanding my skills in the MERN stack (MongoDB, Express.js, React.
 
 Feel free to reach out for collaboration, tech discussions, or just to say hello!
 
-[LinkedIn] (https://www.linkedin.com/in/thedarshanjadhav/)
-[Portfolio] (https://darshanjadhav.netlify.app/)
-[Email] (mailto:darshanjadhav363@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thedarshanjadhav/)
+[Portfolio](https://darshanjadhav.netlify.app/)
+[Email](mailto:darshanjadhav363@gmail.com)
 
 
 
