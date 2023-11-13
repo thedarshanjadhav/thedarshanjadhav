@@ -19,7 +19,13 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 
 ## 💻 [Skills]()
 
-### [Language]()
+### [Version Control]()
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+
+### [Programming Languages]()
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -37,7 +43,22 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### [Backend as a Service]()
+### [Back-End Development]()
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### [Databases]()
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### [API Development and Testing]()
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-FF7139?style=flat&logo=hoppscotch&logoColor=white)
+
+### [Hosting and Deployment]()
 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
