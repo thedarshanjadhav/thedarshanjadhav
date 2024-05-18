@@ -98,7 +98,7 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 - Description: An affiliate platform allowing users to check their revenue how many people they referred in a table view and even statistics/Graph view.
 - Technologies: React.js, TypeScript, Chakra UI, and React hook form
 
-### [Wanderlust](https://wanderlust.onrender.com)
+### [Wanderlust](https://wanderlust-xqpm.onrender.com/listings)
 
 - Description: A travel platform that provides a curated list of places to explore. Users can discover destinations, view details, and leave reviews.
 - Features: 
