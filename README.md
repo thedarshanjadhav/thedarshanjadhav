@@ -2,20 +2,20 @@
 
 ## 🚀 [About Me]()
 
-I am a passionate and results-driven Web Developer with a focus on frontend technologies. Currently working as a Frontend Developer at Talentplace.ai, I bring creative solutions to the user interface, leveraging my skills in React.js, JavaScript, Chakra UI, Bootstrap,Node.js, Express.js, MongoDB, Python, SQL, and Git.
-
+I am a passionate and results-driven Web Developer with a focus on frontend technologies. Currently working as a Frontend Developer at Talentplace.ai, I bring creative solutions to the user interface, leveraging my skills in React.js, JavaScript, Chakra UI, Bootstrap, Node.js, Express.js, MongoDB, and Git.
 
 ## 🏢 [Experience]()
 
-- **Frontend Developer** at Talentplace.ai
-  - 6 Months
+- **Software Developer** at Grassroot Properties
+  - Feb 2024 to Present
 
+- **Frontend Developer** at Talentplace.ai
+  - June 2023 to Nov 2023
 
 ## 📚 [Education]()
 
 - **MCA (Master of Computer Applications)**
   - Reva University, Bangalore, India
-
 
 ## 💻 [Skills]()
 
@@ -50,7 +50,6 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 
 ### [Databases]()
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### [API Development and Testing]()
@@ -61,11 +60,11 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 ### [Hosting and Deployment]()
 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ### [Design Tools]()
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
 
 ## 🖥️ [Workspace Setup]()
 
@@ -76,10 +75,19 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 ![Windows 11](https://img.shields.io/badge/-Windows_11-00ADEF?style=flat&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ## 🛠️ [Projects]()
- 
-<!-- ![logo](https://github.com/thedarshanjadhav/thedarshanjadhav/assets/57760497/dda0aa8b-2faf-4c30-bdd1-b7774957d2f1)  -->
+
+### [Portfolio](https://darshanjadhav.netlify.app/)
+
+- Description: The project included building a personal portfolio website that effectively communicated my skills, experience, and achievements to potential employers, clients, or collaborators in an informative, visually appealing, and user-friendly platform.
+- Technologies: HTML, CSS, Bootstrap, and JavaScript
+
+### [E-COMMERCE WEBSITE](https://dj-ecomm-app-reactjs.netlify.app)
+
+- Description: Online shopping platform providing customers with a seamless and enjoyable shopping experience.
+- Feature: Includes features like add/remove from cart, updating quantity, and product details.
+- Technologies: ReactJS | JavaScript | Context API | TailwindCSS | Fetch API
+
 ### [TalentPlace Resume Builder](https://www.talentplace.ai/)
 
 - Description: A resume builder application designed to streamline the resume creation process.
@@ -87,24 +95,42 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 
 ### [TalentPlace Affiliate Platform](https://affiliate.talentplace.ai/)
 
-- Description: An affiliate platform allowing users to check their revenue how many people they refered in a table view and even stastics/Graph view.
+- Description: An affiliate platform allowing users to check their revenue how many people they referred in a table view and even statistics/Graph view.
 - Technologies: React.js, TypeScript, Chakra UI, and React hook form
+
+### [Wanderlust](https://wanderlust.onrender.com)
+
+- Description: A travel platform that provides a curated list of places to explore. Users can discover destinations, view details, and leave reviews.
+- Features: 
+  - Home Page: Listings with images, prices per night, and GST toggle.
+  - Individual Place Details: Detailed information, likes, images, and owner details.
+  - Reviews: Users can leave 5-star ratings and descriptions.
+  - Location Map: Interactive map integration.
+  - Authentication and Session Management: Secure login/logout, custom error handling, and session features.
+- Technologies: Express.js, Node.js, MongoDB, HTML, CSS, Render
+
+### [Template Generator](https://github.com/yourusername/template-generator)
+
+- Description: Single-handedly developed a template generator application utilizing the MERN stack.
+- Features:
+  - Dynamic template generation based on user inputs, optimizing efficiency and customization.
+  - Implemented authentication for secure user access.
+  - Ensured scalability and maintainability of the application architecture through meticulous planning and execution.
+- Technologies: MongoDB, Express.js, React.js, Node.js, Chakra UI
+
+### [MERN Project](https://github.com/yourusername/mern-project)
+
+- Description: A comprehensive MERN stack project showcasing full-stack development capabilities.
+- Features: User authentication, CRUD operations, responsive design, and API integration.
+- Technologies: MongoDB, Express.js, React.js, Node.js
 
 ## 🌱 [Learning]()
 
-I'm currently expanding my skills in the MERN stack (MongoDB, Express.js, React.js, Node.js). Excited about diving deeper into full-stack development and building robust web applications.
-
-### [New MERN Project (Coming Soon)](https://github.com/yourusername/new-mern-project)
-
-[![MERN Stack](https://img.shields.io/badge/-MERN-61DAFB?style=flat&logo=mongodb&logoColor=white&labelColor=47A247)](https://www.mongodb.com/mern-stack)
-- Description: A new project in the MERN stack, showcasing my journey into full-stack development.
-- Technologies: MongoDB, Express.js, React.js, Node.js, [any other relevant technologies]
-
+Having completed my initial learning of the MERN stack, I am now delving deeper into advanced concepts and best practices within the MERN ecosystem. I'm focused on enhancing my skills in areas such as state management, performance optimization, and scalable architecture.
 
 ## 📊 [Stats]()
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thedarshanjadhav&show_icons=true&hide=prs&count_private=true&theme=radical)
-
 
 ## 🤝 [Let's Connect!]()
 
@@ -114,21 +140,3 @@ Feel free to reach out for collaboration, tech discussions, or just to say hello
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://shorturl.at/hprCY)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white)](https://darshanjadhav.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darshanjadhav363@gmail.com)
-
-
-
-
-<!--
-**thedarshanjadhav/thedarshanjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
