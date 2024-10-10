@@ -2,7 +2,7 @@
 
 ## 🚀 [About Me]()
 
-I am a passionate and results-driven Web Developer with a focus on frontend technologies. Currently working as a Frontend Developer at Talentplace.ai, I bring creative solutions to the user interface, leveraging my skills in React.js, JavaScript, Tailwind, Chakra UI, Bootstrap, Node.js, Express.js, MongoDB, and Git.
+I am a passionate and results-driven Web Developer with a focus on frontend technologies. Currently working as a Frontend Developer at Talentplace.ai, I bring creative solutions to the user interface, leveraging my skills in React.js, JavaScript, Tailwind CSS, Chakra UI, Bootstrap, Node.js, Express.js, MongoDB, and Git.
 
 ## 🏢 [Experience]()
 
