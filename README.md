@@ -6,6 +6,9 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
 
 ## 🏢 [Experience]()
 
+- **Associate Software Developer** at Cubic Logics
+  - Dec 2024 to Present
+    
 - **Software Developer** at Grassroot Properties
   - Feb 2024 to Sep 2024
 
