@@ -10,7 +10,7 @@ I am a passionate and results-driven Web Developer with a focus on frontend tech
   - Dec 2024 to Present
     
 - **Software Developer** at Grassroot Properties
-  - Feb 2024 to Sep 2024
+  - Dec 2024 to Nov 2024
 
 - **Frontend Developer** at Talentplace.ai
   - June 2023 to Nov 2023
